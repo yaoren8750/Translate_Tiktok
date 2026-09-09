@@ -2822,8 +2822,8 @@ NSDictionary *CommonTable(void)
         @"Hide the bar or any of its buttons" : @"隐藏底部导航栏或按钮",
         @"Hide Bottom Bar" : @"隐藏底部导航栏",
         @"Hides the bottom navigation bar. Shake the device to reopen these settings." : @"隐藏底部导航栏。摇动设备可重新打开设置。",
-        
-        
+        @"Press and hold any on-video button to drag it anywhere.": @"长按视频上的任意按钮，即可拖动到任意位置。",
+        @"Shake the device at any time to open these settings - it works even if you have hidden the bottom bar or the profile tab.": @"随时摇一摇设备即可打开这些设置，即使隐藏了底部栏或个人资料页签也同样有效。",
         @"Hide all ads from the app" : @"隐藏应用内所有广告",
         @"Hide any video whose description or creator name contains one of your words" : @"隐藏视频描述或创作者名称中包含指定关键词的视频",
         @"Hide live streams from the feed" : @"隐藏推荐页中的直播",
