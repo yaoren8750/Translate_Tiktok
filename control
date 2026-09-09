@@ -1,0 +1,8 @@
+Package: infinitokfix
+Name: InfiniTokFix
+Version: 1.0
+Architecture: iphoneos-arm
+Description: TikTok translation tweak
+Maintainer: tiantian
+Author: tiantian
+Section: Tweaks
