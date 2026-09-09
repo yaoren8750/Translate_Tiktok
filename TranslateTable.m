@@ -2903,7 +2903,7 @@ NSDictionary *CommonTable(void)
         @"Sound keeps playing when you leave the app. Adds a bolt button next to the download button." : @"离开应用后音源仍会继续播放，并在下载按钮旁显示闪电按钮",
         @"Speed Selected" : @"已选择速度",
         @"Sponsored Content" : @"赞助内容",
-        @"Edit mode is on — drag the buttons on any video, then turn it off." : @"编辑模式已开启——在任意视频上拖动按钮进行调整，完成后关闭编辑模式。"
+        @"Edit mode is on — drag the buttons on any video, then turn it off." : @"编辑模式已开启——在任意视频上拖动按钮进行调整，完成后关闭编辑模式。",
         @"Stop video playback automatically" : @"自动停止视频播放",
         @"Takip et" : @"关注",
         @"Tap a section to see its options" : @"点击分类查看可用选项",
