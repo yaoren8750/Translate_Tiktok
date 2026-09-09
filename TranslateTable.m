@@ -2835,9 +2835,9 @@ NSDictionary *CommonTable(void)
         @"Increase the comment character limit" : @"增加评论字数限制",
         @"Indeterminate progress" : @"不确定进度",
         @"Keep the chosen speed for every video" : @"所有视频均保持所选播放速度",
-        @"Keep-Alive Diagnostics" : @"保活诊断",
-        @"Keep-alive off" : @"保活已关闭",
-        @"Keep-alive on" : @"保活已开启",
+        @"Keep-Alive Diagnostics" : @"保持诊断",
+        @"Keep-alive off" : @"保持已关闭",
+        @"Keep-alive on" : @"保持已开启",
         @"Like Comment Confirmation" : @"评论点赞确认",
         @"Live Button" : @"直播按钮",
         
@@ -2903,7 +2903,7 @@ NSDictionary *CommonTable(void)
         @"Sound keeps playing when you leave the app. Adds a bolt button next to the download button." : @"离开应用后音源仍会继续播放，并在下载按钮旁显示闪电按钮",
         @"Speed Selected" : @"已选择速度",
         @"Sponsored Content" : @"赞助内容",
-        @"SPU," : @"SPU,",
+        @"Edit mode is on — drag the buttons on any video, then turn it off." : @"编辑模式已开启——在任意视频上拖动按钮进行调整，完成后关闭编辑模式。"
         @"Stop video playback automatically" : @"自动停止视频播放",
         @"Takip et" : @"关注",
         @"Tap a section to see its options" : @"点击分类查看可用选项",
